@@ -1,3 +1,9 @@
+[logger]
+level = 'debug'
+
+[runner]
+fastReruns = false
+
 [server]
 enableCORS = false
 enableXsrfProtection = false
